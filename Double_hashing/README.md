@@ -3,7 +3,7 @@ Designing a HashTable (atleast size >= 10) for Integers (Use Collision Resolutio
 
 Providing following Function
 
-1 Insert a Key
+1. Insert a Key
 2. Delete a Key
 3. Search a Key Using key Value
 4. Calculate Load Factor
