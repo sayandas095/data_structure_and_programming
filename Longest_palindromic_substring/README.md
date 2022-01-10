@@ -1,10 +1,10 @@
-# BFS and DFS of a graph
-Creating a menu-driven program:-
+# Longest palindromic substring
+Taking String input from the user and finding the longest palindromic in String. 
 
-(Taking the number of vertices from the user, entering the Nodes and making an adjacency matrix after that printing the BFS and DFS traversal).
+- Input 1:  S : "aaaabbaa"
 
-- Create a Graph.
+  Output:-  "aabbaa"
 
-- Doing BFS traversal in the Graph
+- Input 2 : S : "aaa aaa"
 
-- Doing DFS traversal in the Graph
+  Output : "aaa aaa"
